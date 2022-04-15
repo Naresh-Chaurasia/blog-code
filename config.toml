@@ -1,0 +1,7 @@
+baseURL = 'https://naresh-chaurasia.github.io/connect2naresh'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ga-hugo-theme'
+
+[markup.goldmark.renderer]
+unsafe = true
